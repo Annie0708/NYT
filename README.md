@@ -5,12 +5,22 @@
 * EDA and visualisation of article data over years.
 
 ## Code and Resources Used
-* **Python version:** 
+* **Python version:**  3.7.13
 * **Packages:** numpy, pandas, sklearn, matplotlib, seaborn, plotly, spacy, tensorflow, requests, json, wordcloud, gradio
 
 ## Data collecting
 
-## Data Cleaning
+## Data Cleaning and Feature Engineering
+From the input set of features, the following were selected:
+* section - section of NYT, i.e. Business, Sports, Technology
+* byline - author of the article
+* title
+* abstract
+
+In addition, further attributes were introduced:
+*
+*
+
 
 ## Exploratory Data Analysis
 
