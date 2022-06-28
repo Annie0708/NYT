@@ -2,7 +2,7 @@
 ## Project Overview
 * Binary classification of New York Times articles. The model determines whether an article belongs to the most frequently shared group.
 * Data from NYT <a href="https://developer.nytimes.com/docs/archive-product/1/overview" target="_blank">Archive API</a> and <a href="https://developer.nytimes.com/docs/most-popular-product/1/overview" target="_blank">Most Popular API</a>.
-* EDA and visualisation of article data over years.
+* NLP methods such as sentiment analysis and NERs are used
 
 ## Code and Resources Used
 * **Python version:**  3.7.13
